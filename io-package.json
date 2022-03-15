@@ -85,7 +85,7 @@
       "type": "state",
       "common": {
         "name": "eNet Server Counter ID",
-        "type": "string",
+        "type": "number",
 		"role": "value",
         "read": true,
         "write": true,
